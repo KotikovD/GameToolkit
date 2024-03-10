@@ -39,6 +39,8 @@ Example 2:
 ![Noiser](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Noiser.gif)
 #### Rotation
 ![Rotation](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Rotation.gif)
+#### Glass
+![Rotation](https://github.com/KotikovD/ShadersCollection/blob/main/ReadmeResources/Glass.gif)
 
 ## 3rd part
 * [NaughtyAttributes](https://assetstore.unity.com/packages/tools/utilities/naughtyattributes-129996#publisher)
